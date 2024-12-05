@@ -1,6 +1,6 @@
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
-import InventoryApp from './InventoryApp.tsx'
+import InventoryApp from './app/InventoryApp.tsx'
 import './index.css'
 
 createRoot(document.getElementById('root')!).render(
